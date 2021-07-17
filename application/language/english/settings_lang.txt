@@ -1,0 +1,70 @@
+<?php
+
+/*
+ * English language
+ */
+
+
+
+$lang['education_action'] = 'Action';
+$lang['status'] = 'Status';
+$lang['edit'] = 'Edit';
+$lang['delete'] = 'Delete';
+$lang['add'] = 'Add';
+$lang['country'] = 'Country';
+$lang['country_code'] = 'Country code';
+$lang['isd_code'] = 'ISD code';
+$lang['image'] = 'Image';
+$lang['description'] = 'Description';
+
+/*------Currency messages----*/
+$lang['currency'] = 'Currency';
+$lang['currency_code'] = 'Currency code';
+$lang['currency_value'] = 'Currency value';
+$lang['currency_symbol'] = 'Currency symbol';
+$lang['courrency_feild_added'] = 'Currency feild added';
+$lang['courrency_feild_deleted'] = 'Currency feild deleted';
+/*------------*/
+/********country category*************/
+$lang['country_category'] = 'Country category';
+
+$lang['country_category_description'] = 'Country category description';
+$lang['country_category_image'] = 'Country category image';
+$lang['country_category_added'] = 'Country category added';
+$lang['country_category_updated'] = 'Country category updated';
+$lang['country_category_deleted'] = 'Country category deleted';
+$lang['country_category_mapping'] = 'Country category mapping';
+$lang['country_category_mapping_created']='Country category mapping created';
+$lang['country_category_mapping_feild_deleted']='Country category mapping removed';
+/*************/
+
+$lang['country_feild_added'] = 'Country feild added';
+$lang['block'] = 'Block';
+$lang['unblock'] = 'Unblock';
+$lang['channelname'] = 'Channel Name';
+$lang['username'] = 'Name';
+$lang['country'] = 'Country';
+$lang['mobilenumber'] = 'Mobile Number';
+$lang['channelname'] = 'Channel Name';
+$lang['customerpagetitile'] = 'Customer Management';
+$lang['emailid'] = 'Email id';
+$lang['status'] = 'Status';
+$lang['citizenship'] = 'Citizenship';
+$lang['statusactive'] = 'Active';
+$lang['statusinactive'] = 'InActive';
+$lang['contactno'] = 'ContactNo:';
+$lang['actions'] = 'Actions';
+
+/* customers listing && details page*/
+$lang['generaldetails'] = 'General Details';
+$lang['happendetails'] = 'Happen@ Details';
+$lang['promodetails'] = 'Promo@ Details ';
+$lang['topdetails'] = 'Top@ Details';
+$lang['selectdropdownOption'] = 'Select';
+$lang['dobvalue'] = 'DOB';
+$lang['educationvalue'] = 'Education';
+
+
+/* login page */
+$lang['password'] = 'password';
+$lang['confirmpassword'] = 'confirm password';
