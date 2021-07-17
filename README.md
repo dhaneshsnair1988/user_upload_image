@@ -31,3 +31,7 @@ Add base_url
 Add RewriteBase according to your server configuration 
 
 RewriteBase /
+
+Admin Login : Username  : admin@bk.com
+              Password  : 321
+
